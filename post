@@ -1,1 +1,2 @@
-key_1 => value 1\ntest_another_key => value 2\n
+key_1 => value 1
+test_another_key => value 2
